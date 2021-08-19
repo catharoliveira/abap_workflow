@@ -1,0 +1,15 @@
+Copyright (c) 2009-2020 SAP SE ou empresa afiliada da SAP.
+
+APIs
+Este projeto pode incluir APIs para produtos ou serviços SAP ou de terceiros.
+O uso dessas APIs, produtos e serviços pode estar sujeito a
+acordos. Em nenhum caso a aplicação do Software Apache
+Licença, v.2 para este projeto concede quaisquer direitos sobre ou para essas APIs,
+produtos ou serviços que alteram, expandem, são inconsistentes com,
+ou substituir quaisquer termos desses acordos adicionais. “API” significa
+interfaces de programação de aplicativos, bem como seus respectivos
+especificações e implementação de código que permite outro software
+produtos para se comunicar ou contatar a SAP ou produtos de terceiros
+ou serviços (por exemplo, SAP Enterprise Services, BAPIs, Idocs, RFCs
+e chamadas ABAP ou outras saídas de usuário) e podem ser disponibilizadas por meio
+SAP ou produtos de terceiros, SDKs, documentação ou outra mídia.
